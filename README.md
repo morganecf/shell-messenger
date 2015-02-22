@@ -19,5 +19,5 @@ Run
 
 Screenshots
 ------
-![Alt text](https://raw.github.com/morganecf/shell-messenger/convo.png "Chat with friends about your miserable cubicle existence")
-![Alt text](https://raw.github.com/morganecf/shell-messenger/ascii.png "We even do ascii art! Ironically invalidating the raison d'etre of this app as a means to circumvent the corporocratic eye")
+![Alt text](https://raw.githubusercontent.com/morganecf/shell-messenger/master/convo.png "Chat with friends about your miserable cubicle existence")
+![Alt text](https://raw.githubusercontent.com/morganecf/shell-messenger/master/ascii.png "We even do ascii art! Ironically invalidating the raison d'etre of this app as a means to circumvent the corporocratic eye")
