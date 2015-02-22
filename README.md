@@ -14,8 +14,8 @@ You'll just be running the scripts, but to install the dependencies, do:
 Run
 -------
 1. Create login information file. Email in first line, password in second. 
-2. Run listener: python listener.py <login.txt>
-3. Run sender: python sender.py <login.txt> 
+2. Run listener in one window: python listener.py logininfo.txt
+3. Run sender in another: python sender.py logininfo.txt
 
 Screenshots
 ------
