@@ -15,3 +15,7 @@ pip install colorama
 3. Run listener: python listener.py <login.txt>
 4. Run sender: python sender.py <login.txt> 
 
+Screenshots
+------
+![Alt text](https://github.com/morganecf/shell-messenger/convo.png "Chat with friends about your miserable cubicle existence")
+![Alt text](https://github.com/morganecf/shell-messenger/ascii.png "We even do ascii art! Ironically invalidating the raison d'etre of this app as a means to circumvent the corporocratic eye")
