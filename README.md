@@ -4,9 +4,9 @@ Interface with  your facebook friends via the command line, so you can pretend t
 Usage
 ------
 1. Install dependencies:
-brew install phantomjs
-pip install splinter (installs selenium as well)
-pip install pillow
++brew install phantomjs
++pip install splinter (installs selenium as well)
++pip install pillow
 pip install html5lib
 pip install requests
 pip install colorama 
